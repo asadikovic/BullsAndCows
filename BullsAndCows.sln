@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows", "BullsAndCows\BullsAndCows.csproj", "{4C3E0E93-53AB-4659-8F52-88EB13EB2674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaC", "BaC\BaC.csproj", "{F6045993-9AAF-41C9-A1B8-939B93FDA02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaCTests", "BaCTests\BaCTests.csproj", "{9D218A02-8CD0-41F2-A40F-C26154B35F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3E0E93-53AB-4659-8F52-88EB13EB2674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3E0E93-53AB-4659-8F52-88EB13EB2674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3E0E93-53AB-4659-8F52-88EB13EB2674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3E0E93-53AB-4659-8F52-88EB13EB2674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6045993-9AAF-41C9-A1B8-939B93FDA02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6045993-9AAF-41C9-A1B8-939B93FDA02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6045993-9AAF-41C9-A1B8-939B93FDA02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6045993-9AAF-41C9-A1B8-939B93FDA02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D218A02-8CD0-41F2-A40F-C26154B35F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D218A02-8CD0-41F2-A40F-C26154B35F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D218A02-8CD0-41F2-A40F-C26154B35F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D218A02-8CD0-41F2-A40F-C26154B35F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3A24A6-8311-453B-9E21-A57AEB463CAB}
+	EndGlobalSection
+EndGlobal
