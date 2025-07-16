@@ -25,6 +25,8 @@ Then I ran 100,000 simulations playing both algorithms against each other and he
 
 ![Smart vs Random](screenshots/match100K.JPG)
 
+© Anes Sadiković 2025 - Licensed under GPL3
+
 
 
 
